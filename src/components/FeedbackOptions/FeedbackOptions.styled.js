@@ -6,9 +6,7 @@ export const FeedbackContainer = styled.div`
 `;
 
 export const FeedbackBtnContainer = styled.div`
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
+ display: flex;
   justify-content: center;
 `;
 
