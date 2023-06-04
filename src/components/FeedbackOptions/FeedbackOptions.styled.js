@@ -78,6 +78,6 @@ export const StatisticTitle = styled.h2`
 
 export const StatisticText = styled.p`
   font-size: 45px;
-  font-weight: 400;
+  font-weight: 500;
   text-align: center;
 `;
